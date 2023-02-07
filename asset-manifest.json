@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.064b6082.css",
-    "main.js": "/static/js/main.1c50b644.js",
+    "main.css": "/static/css/main.38d3f722.css",
+    "main.js": "/static/js/main.e1586531.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Banner.svg": "/static/media/Banner.1fcb40066c6bc645e87a07bbf5f44dc8.svg",
     "static/media/omnichannel.svg": "/static/media/omnichannel.7ab3128d5f89dcad3113441e4df5ac83.svg",
-    "static/media/googlepay.svg": "/static/media/googlepay.d9f78e7e77f4dd3e30c9522a849b5e6b.svg",
     "static/media/cdp.svg": "/static/media/cdp.e484b8239c82ac73185d3c8d1bf0225a.svg",
+    "static/media/loyalty.png": "/static/media/loyalty.b1ebfdd5a70ffa04531b.png",
     "static/media/LogoSalebridge.svg": "/static/media/LogoSalebridge.b46b6e82c0876372b4c506c989040da4.svg",
-    "static/media/svg-gobbler.svg": "/static/media/svg-gobbler.7e4c4b4516d628e29e44f194e2792e05.svg",
+    "static/media/right.svg": "/static/media/right.7ac2f8508a4a1e08bb3e9ce75f521d77.svg",
     "static/media/Settings.svg": "/static/media/Settings.b4ba03916dce0ab5db624426a101ca44.svg",
     "static/media/Cassa.svg": "/static/media/Cassa.30f26d7116dc462ae978953c91981de4.svg",
     "static/media/left.svg": "/static/media/left.f542d9e49c23b7048998de7297453da6.svg",
@@ -17,12 +17,12 @@
     "static/media/simple.svg": "/static/media/simple.33f2f50f6693e78431bb9e05fd777073.svg",
     "static/media/modal-close.svg": "/static/media/modal-close.97ddb3534659cee3fa32f71b807faa0f.svg",
     "index.html": "/index.html",
-    "main.064b6082.css.map": "/static/css/main.064b6082.css.map",
-    "main.1c50b644.js.map": "/static/js/main.1c50b644.js.map",
+    "main.38d3f722.css.map": "/static/css/main.38d3f722.css.map",
+    "main.e1586531.js.map": "/static/js/main.e1586531.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.064b6082.css",
-    "static/js/main.1c50b644.js"
+    "static/css/main.38d3f722.css",
+    "static/js/main.e1586531.js"
   ]
 }
